@@ -33,7 +33,7 @@
 {
   color:white;
 }
-.linkc a:hover
+.navbar-light .navbar-nav .nav-link:hover 
 {
-    color:#fff;
+    color: white;
 }
