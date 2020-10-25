@@ -37,3 +37,7 @@
 {
     color: white;
 }
+a.hover_white:hover
+{ 
+    color: white !important;  
+} 
