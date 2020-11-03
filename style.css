@@ -1,26 +1,20 @@
-.body
-{
-    background-color:#003333;
+.body {
+  background-color: #003333;
 }
-.card-body
-{
+.card-body {
   background-color: #4b8078;
 }
-.navbar-custom
-{
+.navbar-custom {
   background-color: #0b7869;
 }
-.card-title
-{
-  color:white
+.card-title {
+  color: white;
 }
-.card-text
-{
-  color:white
+.card-text {
+  color: white;
 }
-.links
-{
-  color:Black
+.links {
+  color: Black;
 }
 
 .center {
@@ -29,15 +23,15 @@
   margin-right: auto;
   width: 30%;
 }
-.foot
-{
-  color:white;
+.foot {
+  color: white;
 }
-.navbar-light .navbar-nav .nav-link:hover 
-{
-    color: white;
+.navbar-light .navbar-nav .nav-link:hover {
+  color: white;
 }
-a.hover_white:hover
-{ 
-    color: white !important;  
-} 
+a.hover_white:hover {
+  color: white !important;
+}
+hr {
+  border-top: 5px solid #fff !important;
+}
