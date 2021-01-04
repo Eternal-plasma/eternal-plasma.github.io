@@ -38,3 +38,6 @@ hr {
 .pad {
   padding-top: 2em;
 }
+.img-limit {
+  max-width: 50% !important;
+}
