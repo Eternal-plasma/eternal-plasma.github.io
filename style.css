@@ -1,5 +1,5 @@
 .body {
-  background-color: #003333;
+  background-image: radial-gradient(#003333,#007e7e);
 }
 .card-body {
   background-color: #4b8078;
@@ -40,4 +40,8 @@ hr {
 }
 .img-limit {
   max-width: 50% !important;
+}
+.nopad{
+  padding: 0px !important;
+  margin: 0px !important;
 }
