@@ -18,7 +18,7 @@
 }
 
 .center {
-  display: block;
+  display: block; 
   margin-left: auto;
   margin-right: auto;
   width: 30%;
@@ -44,4 +44,28 @@ hr {
 .nopad{
   padding: 0px !important;
   margin: 0px !important;
+}
+.bordertxt{
+  border-radius: 10px; 
+  border-style: solid; 
+  border-color: #FFFFFF;
+  margin-right: 4px;
+  margin-left: 4px;
+}
+.vertcenter{
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 20px;
+}
+.vertcenter2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+.bottommarg{
+  margin-bottom: 10px !important;
 }
